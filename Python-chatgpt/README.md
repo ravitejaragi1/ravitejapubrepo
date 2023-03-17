@@ -1,10 +1,10 @@
-Simple python script to generate random python script 
+Simple python script to generate random python scripts using chatgpt
 
 
 Ex: to generate a script that converts a webpage from English to Spanish using chat gpt 
 
 
-Usage: python3 python-chatgpt.py "download the headers from a webpage, translate from English to Spanish and save it in html file" "translate" 
+Usage from cli: python3 python-chatgpt.py "download the headers from a webpage, translate from English to Spanish and save it in html file" "translate" 
 
 
 Output : creates a python script name translate.py in the same folder. 
